@@ -4,6 +4,7 @@ sum = num1 + num2
 difference = num1 - num2
 product = num1 * num2
 quot = num1 / num2
+print("The Calculator is:")
 print("The sum is:",sum)
 print("The difference is:",difference)
 print("The product is:",product)
